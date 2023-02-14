@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/home-work-redux/static/css/main.fbdc2258.css",
+    "main.js": "/home-work-redux/static/js/main.05a5ed73.js",
+    "index.html": "/home-work-redux/index.html",
+    "main.fbdc2258.css.map": "/home-work-redux/static/css/main.fbdc2258.css.map",
+    "main.05a5ed73.js.map": "/home-work-redux/static/js/main.05a5ed73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbdc2258.css",
+    "static/js/main.05a5ed73.js"
+  ]
+}
